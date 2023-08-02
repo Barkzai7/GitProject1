@@ -7,7 +7,7 @@ public class DemoPrac1 {
 		a = 3;
 		b = 4;
 		System.out.println(a + b);
-		
+		sysout.out.println(a + b + c);		
 	}
 	
 
