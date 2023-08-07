@@ -8,7 +8,7 @@ public class DemoPrac1 {
 
 		System.out.println("****************");
 		
-	    classInfo("Edris", "Barkzai", "NoorTeck", 2023);
+	    classInfo("Edris", "Barkzai", "NoorTeck", 2023, 2001);
 	
 }
 		 
@@ -26,13 +26,13 @@ public class DemoPrac1 {
 		
 	}
 	
-	 static void classInfo(String name, String lastName, String className, int year) {
+	 static void classInfo(String name, String lastName, String className, int year, dateOfBirth) {
 		
 		System.out.println("Name: " + name);
 		System.out.println("Last Name: " + lastName);
 		System.out.println("Class Name: " + className);
 		System.out.println("Year: " + year);
-		
+		System.out.println("DOB: " + dateOfBirth);
 		
 	}
 	
