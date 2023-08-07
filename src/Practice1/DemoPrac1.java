@@ -4,7 +4,7 @@ public class DemoPrac1 {
 	
 	public static void main(String[] args) {
 		
-		add(3, 4, Edris, Barkzai);
+		add(19, 61, "Fakhria"., "Barkzai");
 
 		
 	
