@@ -11,7 +11,7 @@ public class DemoPrac1 {
 	    classInfo("Edris", "Barkzai", "NoorTeck", 2001, 2023);
 	
 }
-		
+		 
 	
 	
 	static void add(int a, int b, String name, String lastName) {
