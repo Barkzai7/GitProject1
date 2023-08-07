@@ -26,7 +26,7 @@ public class DemoPrac1 {
 		
 	}
 	
-	 static void classInfo(String name, String lastName, String className, int year, dateOfBirth) {
+	 static void classInfo(String name, String lastName, String className, int year, int dateOfBirth) {
 		
 		System.out.println("Name: " + name);
 		System.out.println("Last Name: " + lastName);
