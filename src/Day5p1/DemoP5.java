@@ -7,4 +7,10 @@ public class DemoP5 {
 		System.out.println("Hi How are Buddy");
 	}
 
+
+	public void getData() {
+		System.out.println("Your Data...);
+	}
+
+	
 }
