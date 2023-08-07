@@ -6,6 +6,12 @@ public class DemoP5 {
 		
 		System.out.println("Hi How are Buddy");
 	}
+	
+	public void getInfo() {
+		System.out.println("Your Info ");
+	}
+	
+	
 
 
 	public void getData() {
