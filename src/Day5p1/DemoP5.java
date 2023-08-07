@@ -9,7 +9,7 @@ public class DemoP5 {
 
 
 	public void getData() {
-		System.out.println("Your Data...");
+		System.out.println("Your Data....");
 	}
 
 	
